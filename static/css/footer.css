@@ -1,0 +1,137 @@
+
+
+footer,
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   
+}
+
+footer {
+    background-color:#862b51e5;
+}
+
+.footerContainer {
+    padding-left: 40px;
+}
+
+.footerContainer > div {
+    display: flex;
+    justify-content:space-between;
+    
+    max-height: 200px;
+}
+
+.footerContainer h1 {
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 22px;
+    width: 500px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #1b1817;
+   
+}
+
+.footerContainer ul{
+    display: flex;
+    width: 550px;
+
+    flex-direction: column;
+    align-items:flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    /* flex-grow: 2; */
+}
+
+.footerContainer ul li {
+    height: 40px;
+    width: 280px;
+    padding-top: 10px;
+    margin: 5px 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #7ebfc5;
+}
+
+.footerContainer ul li:hover {
+    text-decoration: underline;
+    color: #506f74;
+}
+
+.money {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 200px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.money img {
+    width: 80px;
+    height: 75px;
+    margin-right: 10px;
+}
+
+.footerLogo {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: auto;
+    
+    /* background: url(../images/logo.png) no-repeat; */
+    
+    /* background-position: center;
+    background-size: cover;
+    border-radius: 35%; */
+}
+
+.footerLogo p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #4e0c0c;
+    margin: auto 0;
+}
+
+.footerMy {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footerMy a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: #73b1b117;
+    transition: .2s;
+}
+
+.footerMy a:hover {
+    background-color: #73b1b15b;;
+
+}
+
+.footerMy a img {
+    width: 45px;
+    height: 35px;
+}
+
+.footerMy a:nth-child(2) img {
+    display: block;
+    width: 35px;
+    height: 30px;
+} 
+
+.footerAnimated {
+    background-color: #2d3a34;
+    height: 100px;
+}

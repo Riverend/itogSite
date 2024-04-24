@@ -1,0 +1,18 @@
+
+.One .itemList {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 540px;
+}
+
+.One .itemList li {
+    min-height: 250px;
+}
+
+.Three .itemList{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 820px;
+}

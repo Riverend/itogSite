@@ -1,0 +1,377 @@
+
+
+h1 {
+    font-size: 26px;
+}
+
+a {
+    color: #000000;
+
+}
+a:hover {
+    color: #524b4b;
+}
+
+.veb-site {
+    text-decoration: underline;
+}
+
+.box {
+    margin-top: 30px;
+    background-color: #d5ecee;
+}
+
+.containerInfo,
+.mediaInfoList,
+.media-sys-req,
+.mediaName_Buttons,
+.media-Body-Info,
+.media-Info-Item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.containerInfo {
+
+    align-items: center;
+
+   
+    width: 1200px;
+
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #d5ecee;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+
+.mediaName {
+    display: block;
+    width: 100%;
+    height: 60px;
+}
+
+.mediaName h1 {
+    
+    font-size: 1.875em;
+    text-transform: uppercase;
+    margin: 0px 0px 0.25em;
+    font-weight: bold;
+    color: #3a2525;
+    margin-left: 40px;
+    padding-top: 15px;
+}
+
+.media {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: auto;
+    width: 100%;
+}
+
+.container-block-gallery {
+    display: flex;
+    flex-direction: column;
+
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+.mediaInfoList {
+
+    width: 300px;
+    height: auto;
+    
+}
+ 
+.media-price {
+    display: block;
+    width: auto;
+    height: 50px;
+
+    
+}
+
+.media-price p {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    margin-top: 10px;
+
+   
+    font-size: 1.7em;
+    font-weight: bold;
+    font-family: 'Sofia Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+}
+
+
+.mediaName_Buttons {
+    
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-top: 10px;
+}
+
+.mediaName_Buttons button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    width: 240px;
+    height: 45px;
+
+    background-color: #918173;
+    border-radius: 5px;
+    border: none;
+
+    color: #eeecec;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+    transition: .4s;
+
+    cursor: pointer;
+    
+
+    margin-top: 10px;
+    padding-left: 20px;
+   
+}
+
+.mediaName_Buttons button:nth-child(2) {
+    margin-bottom: 10px;
+    padding-right: 0;
+}
+
+.mediaName_Buttons button::before {
+    display: block;
+    content: "";
+    position: absolute;
+    left: 0;
+    min-width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+    background-color: none;
+    
+}
+
+.mediaName_Buttons button:nth-child(1)::before {
+    background-image: url(../../images/imgBattenMedia/shop.png);
+}
+
+.mediaName_Buttons button:nth-child(2)::before {
+    background-image: url(../../images/imgBattenMedia/star.png);
+}
+
+.mediaName_Buttons button:nth-child(1)::before,
+.mediaName_Buttons button:nth-child(2)::before,
+.media_Reiting_svg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.mediaName_Buttons button:hover {
+    background-color: #aa9a8c;
+}
+
+
+.media-Body-Info {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    
+}
+
+.media-Info-Item {
+    width: 100%;
+    
+    padding-left: 25px;
+    margin-bottom: 5px;
+}
+
+.media-Info-Title,
+.property-Title {
+    font-size: 16px;
+    height: 30px;
+    color: #8d6666;
+    text-align:justify;
+    text-transform: uppercase;
+    font-weight: bold;
+    white-space: normal;
+    letter-spacing: 0.035em;
+    padding-top: 10px;  
+}
+
+.media-Info-Value {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+  
+    
+}
+
+.media-raiting {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    padding-left: 25px;
+}
+
+.media-raiting-person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 100%;
+    
+}
+
+.media-raiting-person span {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    height: 45px;
+    width: 30px;
+    letter-spacing: 2px;
+    
+}
+
+.media_raiting-all {
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 140px;
+    padding-left: 10px;
+    
+}
+
+.media_Reiting_svg {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-image: url(../../images/imgBattenMedia/star01.png);
+}
+
+.media_Reiting_value {
+    font-size: 24px;
+    margin-right: 6px;
+    font-weight: 600;
+}
+
+.media_Reiting_count {
+    align-self: flex-end;
+    font-size: 15px;
+    opacity: .7;
+    padding-bottom: 2px;
+}
+
+
+/* Media Tegs */
+
+.media_Tegs {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 70%;
+    height: auto;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.media_Tegs_Item {
+    padding: 5px 10px;
+    margin-right: 8px;
+    margin-top: 8px;
+    line-height: 14px;
+    font-size: 13px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform:capitalize;
+    border: 1px solid #726f6d9c;
+    background-color: #d3c3b5;
+    color: #a81f1f;
+    transition: .4s ease;
+}
+
+.media_Tegs_Item:hover {
+    background-color: #e9e4e0;
+
+}
+
+.media_Description {
+    display: block;
+    padding-left: 10px;
+    width: 100%;
+    height: auto;
+    background-color: #e4cece4b;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding-bottom: 50px;
+
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+.media_Description h2 {
+    font-weight: bold;
+    margin-top: 10px;
+
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    white-space: normal;
+}
+
+.media_Description p,
+.media-content-value p {
+    font-size: 16px;
+    max-width: 900px;
+}
+
+.media-sys-req {
+    width: 100%;
+    height: auto;
+    padding-left: 10px;
+    
+    background-color: #e4cece56;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+
+.media-sys-req h2 {
+    color: #000000;
+    margin-top: 10px;
+
+    font-size: 18px;
+    margin-bottom: 10px;
+    white-space: normal;
+}
+
+.media-content h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.media-content p {
+    line-height: 1.4;
+}

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <link rel="stylesheet" href="static/css/style.css">
+		<link rel="stylesheet" href="static/css/header.css">
+		<link rel="stylesheet" href="static/css/footer.css">
+
+        <link rel="stylesheet" href="static/css/styleFormRegister.css">
+        <link rel="stylesheet" href="static/css/basket.css">
+        <link rel="stylesheet" href="static/css/bannerSliders.css">
+        <link rel="stylesheet" href="static/css/kategories.css">
+
+        <link rel="stylesheet" href="static/css/gridSlider.css">
+
+        <link rel="stylesheet" href="static/css/styleRecomendate.css">
+
+        <link rel="stylesheet" href="static/css/styleReview.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <a class="header-logo" href="index.html"></a>
+                <nav class="menu-header">
+                    <ul>
+                        <li><a href="index.html">Игры</a></li>
+                        <li><a href="recomendate.html">Рекомендации</a></li>
+                        <li><a href="bibioteka.html">Мои Игры</a></li>
+                    </ul>
+                </nav>
+                <form class="" action="/search" method="get">
+                    <div class="search">
+                        <input type="text" name="query" class="searchTerm" placeholder="Поиск">
+                        <button type="submit" class="searchButton"></button>
+                    </div>
+                </form>
+                <div class="optinMenu">
+                   <div class="optinFront">
+                        <span class="basketBotton">Корзина</span>
+                        <span class="enter">Войти</span>       
+                   </div>
+                   <div class="dropDown">
+                        <a href="#">Зарегистрироваться</a>
+                        <a href="#">Войти</a>
+                   </div>
+                   <div class="blockHome">
+                        <div class="opca"></div>
+                        <div class="register">
+                            <form class="form" action="" method="post">
+                                <input class="input" type="text" placeholder="Ваше имя">
+                                <input class="input" type="email" placeholder="Ваш e-mail">
+                                <input class="input" type="tel" placeholder="Ваш телефон">
+                                <input class="input" type="password" placeholder="Пароль">
+                                <input class="input" type="password" placeholder="Пароль еще раз">
+                                <button class="btn" type="submit">Регистрация</button>
+                            </form>
+                        </div>
+                        <div class="come">
+                            <form class="form" action="" method="post">
+                                <input class="input" type="email" placeholder="Ваш e-mail">
+                                <input class="input" type="password" placeholder="Пароль">
+                                <button class="btn" type="submit">Войти</button>
+                            </form>
+                        </div>
+                   </div>
+                   <div class="basket">
+                        <h1>Корзина</h1>
+                        <ul class="basketItems">
+                            <li>
+                                <a href="prosmotr.html?&15" style="background-image: url(static/images/games/15.jpg);"></a>                                                  
+                                <h3 class="description">The Forest</h3>
+                                <span class="InfoBuy">950 р</span>                                                                    
+                             </li>   
+                        </ul>
+                        <div class="basketOrder">
+                            <div>
+                                <span>Общая сумма:</span>
+                                <span class="sumbuy"></span>
+                            </div>
+                            <button  class="checkout">Оформить заказ</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="container main">
+
+            <div class="banner">
+                <div class="slider">
+                    <div class="list">
+                        <div class="item">
+                            <img src="static/images/bannersSlideImageRecomeded/01.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="static/images/bannersSlideImageRecomeded/02.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="static/images/bannersSlideImageRecomeded/03.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="static/images/bannersSlideImageRecomeded/04.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="static/images/bannersSlideImageRecomeded/05.jpg" alt="">
+                        </div>
+                    </div>
+        
+                    <div class="buttons">
+                        <button id="prev"><</button>
+                        <button id="next">></button>
+                    </div>
+                    <ul class="dots">
+                        <li class="active"></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="box boxhidden">
+                <h1>Категории</h1>
+                <ul>                   
+                </ul>
+            </div>
+
+            <div class="gridScroll One">
+                <h1>Рекомендуем</h1>
+                <ul class="itemList">
+                </ul>
+                <div class="buttons">
+                    <button id="prevList"><</button>
+                    <button id="nextList">></button>
+                </div>
+            </div>
+
+            <div class="gridScroll Two">
+                <h1>Симуляторы</h1>
+                <ul class="itemList">               
+                </ul>
+                <div class="buttons">
+                    <button id="prevList"><</button>
+                    <button id="nextList">></button>
+                </div>
+            </div>
+
+            <div class="gridScroll Three">
+                <h1>Подборка</h1>
+                <ul class="itemList">               
+                </ul>
+                <div class="buttons">
+                    <button id="prevList"><</button>
+                    <button id="nextList">></button>
+                </div>
+            </div>
+
+            <div class="gridScroll Thour">
+                <h1>Приключенческие игры</h1>
+                <ul class="itemList">               
+                </ul>
+                <div class="buttons">
+                    <button id="prevList"><</button>
+                    <button id="nextList">></button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="divBtnOpenReview">
+            <span class="openReview"></span>
+        </div>
+
+        <div class="blockReview ">
+            <form class="formReview positOkno" action="" method="post">
+                <p>Ваш отзыв</p>
+                <label for="name">Имя</label>
+                <input class="input" id="name" name="name" type="text" placeholder="Ваше имя" required>
+                <label for="email">Электронная почта</label>
+                <input class="input" id="email" name="email" type="email" placeholder="Ваш e-mail" required>
+                <label for="title">Заголовок</label>
+                <input class="input" id="title" name="title" type="text" placeholder="Заголовок" required>
+                <label for="message">Текст отзыва</label>
+                <textarea class="input" id="message" name="message" type="text" placeholder="   " required></textarea>
+                <p class="check">Пожалуйста, заполните все поля формы!</p>
+                <button class="btn" type="submit" onClick="ValidMail();">Отправить</button>
+            </form>
+    
+            <div class="okno" onClick="СloseWindow();">
+                <p>Ваш отзыв отправлен</p>
+            </div>
+        </div>
+
+        <footer>
+            <div class="container footerContainer">
+                <h1>Информация</h1>
+                <div>
+                    <ul>
+                        <li>Новости</li>
+                        <li>Правообладателям</li>
+                        <li>Справка покупателям</li>
+                        <li>О сайте</li>
+                        <li>Техническая информация</li>
+                        <li>Пользовательское соглашение</li>
+                        <li>Соглашение о конфиденциальности</li>
+                        <li>Авторы</li>
+                    </ul>
+                    <div class="money">
+                        <img src="static/images/footerMoney/visa.png" alt="">
+                        <img src="static/images/footerMoney/mira.png" alt="">
+                        <img src="static/images/footerMoney/MasterCard.png" alt="">
+                    </div>
+                    <div class="footerLogo">
+                        <p>Мы в соц.сетях:</p>
+                        <div class="footerMy">
+                            <a href="#"><img src="static/images/footerLogo/vk.png" alt=""></a>
+                            <a href="#"><img src="static/images/footerLogo/odnok.png" alt=""></a>
+                            <a href="#"><img src="static/images/footerLogo/youTube.png" alt=""></a>
+                        </div>
+                        <p>Внимание! Сайт может содержать материалы, не предназначенные для просмотра лицами, не достигшими 18 лет!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="footerAnimated">
+            </div>
+        </footer>
+
+        <script src="static/js/formRegister.js"></script>
+        <script src="static/js/basket.js"></script>
+        <script src="static/js/scriptBannerSliders.js"></script>
+        <script src="static/js/kategories.js"></script>
+
+        <script src="static/js/RecomendatteaddDatteGridDatte.js"></script>
+
+        <script src="static/js/scriptReview.js"></script>
+    </body>
+</html>

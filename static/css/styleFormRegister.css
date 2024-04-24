@@ -1,0 +1,80 @@
+.blockHome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+}
+
+.opca {
+    display: block;
+    background-color: #e6cede;
+    opacity: 40%;
+    width: 100%;
+    height: 100%;
+}
+
+.register,
+.come {
+    display: flex;
+    position: fixed;
+    top: 30%;
+    left: 50%-320/2;
+}
+
+
+.blockHome .form {
+    display: block;
+    max-width: 320px;
+    padding: 15px;
+    background-color: #ffc3f2a2;
+    
+}
+
+.blockHome .input {
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    
+    border: 1px solid #ccc;
+    
+    font-family: inherit;
+    font-size: 16px;
+    border-radius: 5px;
+}
+  
+.blockHome .btn {
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+    
+    border: 0;
+    background-color: #729270;
+    cursor: pointer;
+    
+    font-family: inherit;
+    font-size: 16px;
+    color: #fff;
+}
+  
+.blockHome .btn:hover {
+    background-color: #3d463c;
+}
+
+.blockHome {
+    display: none;
+}
+
+.register {
+    display: none;
+}
+
+.come {
+    display: none;
+}

@@ -1,0 +1,185 @@
+/* .myGameContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 25px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.gridGame {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.gridGame h1 {
+    margin-left: 70px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.gridGame ul{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    padding-left: 0;
+}
+
+.gridGame ul li {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position: relative;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    background-color: #fcbec159;
+    width: 95%;
+    height: auto;
+    border-radius: 15px 40px 10px 15px  ;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.gridGame ul li > div:nth-child(1) {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    color: #fff;
+    height: 250px;
+    width: 400px;
+    border-radius: 14px;
+    box-shadow: -13px -7px 24px -1px rgba(34, 137, 137, 0.54);
+    background: linear-gradient(45deg, #fff1eb, #ace0f9);
+
+    margin-left: 0px;
+}
+
+.gridGame ul li a {
+    width: auto;
+    height: auto;
+}
+
+.gridGame ul li div:nth-child(1) img{
+    width: 100%;
+    height: 250px;
+    background-color: gray;
+}
+
+.gridGame .description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.gridGame .description {
+    height: 250px;
+    width: 60%;
+    
+}
+
+/* .description h3,
+.description p,
+.description span {
+    font-family: 'Roboto Condensed', sans-serif;
+} */
+
+.gridGame .description h3 {
+    display: block;
+    height: 40px;
+    width: auto;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.gridGame .description p {
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: break-word;
+
+    color: #1b1414;
+    padding-right: 20px;
+    margin-bottom: 55px;
+    
+}
+
+.dopInform {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 40px;
+    width: 100%;
+    
+}
+.gridGame .description > span {
+    
+
+    text-align: center;
+    /* font-weight: bold;
+    text-transform: uppercase; */
+    height: auto;
+    font-size: 14px;
+    
+}
+
+.libBibioteka {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    font-size: 14px;
+    width: 210px;
+    height: 45px;
+    align-items: center;
+    cursor: pointer;
+    transition: .5s;
+    background-color: #d4c4c4b9;
+    border-radius: 10px 0 0 0;
+}
+
+.libBibioteka::before {
+    display: block;
+    content: "";
+    min-width: 40px;
+    height: 100%;
+    
+    margin-right: 10px;
+    
+    border-right: 2px dashed  #ee8989b9;
+}
+
+.libBibioteka::before {    
+    background-image: url(../images/bibioteka/bookmark.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    
+}
+
+.libBibioteka:hover {
+    background-color: #bd9e9eb9;
+}
+
+.libBibioteka:hover::before {
+    border-right: 2px inset #dda7a7b9;
+    
+}

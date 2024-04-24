@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAGAZIN> 
+    <book>
+        <id>01</id>
+        <NAME>Buckshot Roulette</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Инди', 'Симуляторы'</tegs>
+        <description>Сыграйте в русскую рулетку с дробовиком 12-го калибра. Играют двое. Остается один. Поставьте на кон свою жизнь. Удачи.</description>
+        <price>99</price>
+        <urlImages>   
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_3ef4fc68827fa9ba6a713f314925c6d5d7a05d16.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_d2a1e047a3e3834ca6a7583241c360afc67d0680.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_4d22e670e38dc3fc795ffe2a3d7b6829c7331c1e.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_625d682b7cdaf81d1f173d40d2dde9f6b3495313.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_a0b2f3ddf7fa2389fa9edbc185c54332f2c76b46.1920x1080.jpg?t=1713197707',
+                'https://cdn.akamai.steamstatic.com/steam/apps/2835570/ss_787ccbb3af136c3fc60b3997d80f9fefe27a0bc2.1920x1080.jpg?t=1713197707'
+        </urlImages>
+        <urlVebSite>https://buckshotroulette.com/home</urlVebSite>
+        <razrabot>Mike Klubnika</razrabot>
+        <izdat>CRITICAL REFLEX</izdat>
+        <platform>PC, Steam</platform>
+    </book>
+    <book>
+        <id>02</id>
+        <NAME>Baldur's Gate 3</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Приключенческие игры', 'Ролевые игры','Стратегии'</tegs>
+        <description>Соберите отряд и вернитесь в Забытые Королевства. Вас ждет история о дружбе и предательстве, выживании и самопожертвовании, о сладком зове абсолютной власти.</description>
+        <price>1990</price>
+        <urlImages>
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.1920x1080.jpg?t=1713271288',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/ss_31c13d137706fb4d9a4210513274a3ed9c3c7c96.1920x1080.jpg?t=1713271288'
+        </urlImages>
+        <urlVebSite>https://baldursgate3.game/</urlVebSite>
+        <razrabot>Larian Studios</razrabot>
+        <izdat>Larian Studios</izdat>
+        <platform>PС</platform>
+    </book>
+    <book>
+        <id>03</id>
+        <NAME>No Plan B</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Инди', 'Симуляторы', 'Стратегии'</tegs>
+        <description>Тщательно спланируйте тактику своей команды в ближнем бою. Используйте временную шкалу, чтобы точно синхронизировать каждое взлом двери, бросок гранаты и вход в комнату. Посмотрите, как ваша команда самостоятельно выполняет ваш план, в эпических битвах</description>
+        <price>550</price>
+        <urlImages>
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_95ca52ebc67749051ed88f1e1893aece6ae19020.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_f73de4232396dab6d39f513f495cc50e1c637004.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_f2ad7ab6a89d229b9744b058993bda32bcebded5.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_f6bea42b3f854558c405772eab989535474495d6.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_12f830acd4d4e24f96c0fdf57619c5557d4dcb3d.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_deccda6aa4185a0a37a0f789daf5982d254f58b5.1920x1080.jpg?t=1713943692',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/1269020/ss_49e0b30097eb5982089a89865086c5037ce6f17f.1920x1080.jpg?t=1713943692'
+        </urlImages>
+        <urlVebSite>https://store.steampowered.com/app/1269020/No_Plan_B/?l=russian</urlVebSite>
+        <razrabot>GFX47</razrabot>
+        <izdat>GFX47</izdat>
+        <platform>PC</platform>
+    </book> 
+    <book>
+        <id>04</id>
+        <NAME>ARK: Survival Evolved</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs> 'Экшены', 'Приключенческие игры', 'Инди', 'Многопользовательские игры', 'Ролевые игры'</tegs>
+        <description>Будучи выброшенным голым на берег таинственного острова, голодая и замерзая, вам придется заниматься ремеслом, охотой и строительством, чтобы выжить.</description>
+        <price>550</price>
+        <urlImages>
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_2fd997a2f7151cb2187043a1f41589cc6a9ebf3a.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_01cbef83fe28d64ee5a3d39a86043fb1e49abd31.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_164a92a53f9bcbb728b391fc0719f9769c2e1249.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_46778c08a1a5ac5bdbaf8a5bf844fa666f66a14b.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_ffe9f0e2e23892f3bb6188e5a3eed0f60a08baf4.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_cada382a940c062a1a5244db8da1326de55ddeae.1920x1080.jpg?t=1709879597',
+                'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/ss_1a7f5508e5384a759ccc83fa484db04513213698.1920x1080.jpg?t=1709879597'
+        </urlImages>
+        <urlVebSite>https://ark.fandom.com/ru/wiki/ARK:_Fear_Evolved_3</urlVebSite>
+        <razrabot>Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC</razrabot>
+        <izdat>Studio Wildcard, Snail Games USA</izdat>
+        <platform>PC</platform>
+    </book> 
+    <book>
+        <id>05</id>
+        <NAME>Nightingale</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Ролевые игры', 'Ранний доступ'</tegs>
+        <description>Отправляйтесь в путешествие выживания и приключений в таинственные и опасные царства. Станьте бесстрашным путешественником по царству и отправляйтесь в путешествие в одиночку или с друзьями</description>
+        <price>1100</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_5e078eea2354b38836b6858211b3dd55cfacceef.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_4799cf5fa0ffcf35411c706084cba6a9dd7cd728.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_609b9dbf12bb05810a24b6cb5eade6340b9f79a2.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_73d01f106b2fa690d14ccaa5b06114b34fd88234.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_c333a16343c3da71de1806fc91b1795d8457e3c9.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_79a43faebe6f6ff61355313ae6a097ee745013fb.1920x1080.jpg?t=1712331008',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1928980/ss_6dad20cc11872cf48b879136b8d8cc0bce605ccb.1920x1080.jpg?t=1712331008'
+        </urlImages>
+        <urlVebSite>https://playnightingale.com/</urlVebSite>
+        <razrabot>Inflexion Games</razrabot>
+        <izdat>Inflexion Games</izdat>
+        <platform>PC</platform>
+    </book>  
+    <book>
+        <id>06</id>
+        <NAME>Minishoot' Adventures</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Казуальные игры', 'Ролевые игры'</tegs>
+        <description>Отправьтесь в полет по красочному миру, нарисованному от руки! Это приключение сочетает в себе свободное исследование и напряженные бои. Из светлого верхнего мира вы спуститесь в глубочайшие пещеры: сражайтесь, улучшайте корабль, побеждайте боссов</description>
+        <price>550</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_a27d15bad37bafc01b1ac80381b46b14cc1a34fc.1920x1080.jpg?t=1712551741',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_86852586349766e5d496a3035eb92dff74905ca0.1920x1080.jpg?t=1712551741',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_36e73da31ffb07af94e668c53136197c4b539391.1920x1080.jpg?t=1712551741',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_7b8f85ab8a99841c031c24e98bf376831354a7e5.1920x1080.jpg?t=1712551741',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_0ad10aa0948e6e3af8da494d47e52f6fd1517a0c.1920x1080.jpg?t=1712551741',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1634860/ss_ea0a3dcf1a509e31f836acdafaf1d99e29de5786.1920x1080.jpg?t=1712551741'
+        </urlImages>
+        <urlVebSite>https://store.steampowered.com/app/1634860/Minishoot_Adventures/?l=russian</urlVebSite>
+        <razrabot>SoulGame Studio</razrabot>
+        <izdat>SoulGame Studio, IndieArk</izdat>
+        <platform>PC</platform>
+    </book>    
+    <book>
+        <id>07</id>
+        <NAME>Rust</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Инди', 'Многопользовательские игры', 'Ролевые игры'</tegs>
+        <description>Единственная цель в Rust — выжить. Все хочет, чтобы вы умерли — дикая природа острова и другие обитатели, окружающая среда, другие выжившие. Сделайте все возможное, чтобы продержаться еще одну ночь</description>
+        <price>1100</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_827f1bb38361eb3f7de91cff9be5b7176a05a9ac.1920x1080.jpg?t=1701938429',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_bbf6c96e490326ec877ae548cb148e53516b5f83.1920x1080.jpg?t=1701938429'
+        </urlImages>
+        <urlVebSite>https://rust.facepunch.com/</urlVebSite>
+        <razrabot>Facepunch Studios</razrabot>
+        <izdat>Facepunch Studios</izdat>
+        <platform>PC</platform>
+    </book> 
+    <book>
+        <id>08</id>
+        <NAME>City Car Driving</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Инди', 'Гонки', 'Симуляторы'</tegs>
+        <description> Реалистичный симулятор вождения автомобиля, который поможет вам освоить базовые навыки управления машиной в различных дорожных условиях, с погружением в среду, максимально приближенную к реальной.</description>
+        <price>180,89</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_428bde9f105bba8391e34f19806c1cc2642de515.1920x1080.jpg?t=1698810885',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_bb5c525c4d1e2326beff37d0eb819833c94ea160.1920x1080.jpg?t=1698810885',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_357bc4382d20009fb3cff4c2ca31539416f00b05.1920x1080.jpg?t=1698810885',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_7d66ce55900c15b38cf3b901e1fbd32e4ba76c0e.1920x1080.jpg?t=1698810885',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_0a06f59cb1a4d0ed2d1050954e6736e124fe426d.1920x1080.jpg?t=1698810885',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/493490/ss_e9a535ca624da011d92935e358f1f2bffa8c9dc9.1920x1080.jpg?t=1698810885'
+        </urlImages>
+        <urlVebSite>https://citycardriving.ru/</urlVebSite>
+        <razrabot>Forward Development, Ltd.</razrabot>
+        <izdat>Forward Development, Ltd.</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>09</id>
+        <NAME>MudRunner</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Симуляторы'</tegs>
+        <description> Бескомпромиссные гонки по бездорожью, в которых вам предстоит покорять экстремальное сибирское бездорожье за рулем навороченного транспорта повышенной проходимости, имея при себе лишь карту и компас!</description>
+        <price>1199</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_95b0985dd1aaa652c69fb0f2ae046177838c319a.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_cdb67d33a04c4987f67e9c0d6991f7aee0225a88.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_15b9797151b58d28c0d4e4251c164ee74b80d350.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_b6de7ed6b8a7628985bd98a58ab1a6b4b50ccd4a.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_24846b82bb21886dec0970e818a8155ddccd59e5.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_06a211b2c74b30ff539339e9a87f69f2272c5dbb.1920x1080.jpg?t=1712313229',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/675010/ss_b7287b6ea0214ccd6ba4d99609d9285f44c0bbb7.1920x1080.jpg?t=1712313229'
+        </urlImages>
+        <urlVebSite>https://www.focus-entmt.com/en/games/mudrunner-american-wilds-edition</urlVebSite>
+        <razrabot>Saber Interactive</razrabot>
+        <izdat>Focus Entertainment</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>10</id>
+        <NAME>WRC 7 FIA World Rally Championship</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Гонки'</tegs>
+        <description> Пройдите 13 ралли WRC в достоверно воссозданном окружении. Выступите в роли лучших гонщиков чемпионата за рулем их новых машин. В одиночку или по сети, пройдите Epic Stages, поучаствуйте в еженедельных состязаниях и покажите свое мастерство в WRC!</description>
+        <price>499</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_90f8721046ce69df294e409750428fa1cbc67f15.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_26268247eff23a38484ac472afc53cc2a163a671.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_2f84cbc4ca27d8f6439bd4b1c5cb087c937d7714.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_9d5cf66652c5d4d4a37a7ffc632c24ec21bebac2.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_fe6f44dcf2e44aa063e2f239c43f3948fabf053f.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_2f21100fb3858af185bbd53bfceb8061398b944f.1920x1080.jpg?t=1592484786',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/621830/ss_8e37e53f4187ec8d7e61da7196fe26249f7b1abf.1920x1080.jpg?t=1592484786'
+        </urlImages>
+        <urlVebSite>https://store.steampowered.com/app/621830/WRC_7_FIA_World_Rally_Championship/?l=russiancc=nl</urlVebSite>
+        <razrabot>KT Racing</razrabot>
+        <izdat>Nacon</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>11</id>
+        <NAME>Subnautica</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Приключенческие игры', 'Инди'</tegs>
+        <description> Subnautica — это подводная приключенческая игра в совокупности с чужой океанической планетой. Вас ждёт огромный открытый мир, полный чудес и опасностей!. Вы потерпели крушение в чудом океаническом мире, где единственный путь ведёт вниз. Океаны Subnautica разнятся от залитых солнцем коралловых рифов до коварных глубоководных расщелин, лавовых полей и биолюминесцентных подводных рек. Контролируйте свой запас кислорода, пока исследуете заросли водорослей, плато, рифы и извилистые пещерные системы. Воды кишат живностью: некоторые из них полезны, многие — опасны.</description>
+        <price>363</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_e182b6b20bb797500f9f63c561586d920d44e37c.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_970a13f246e33e0df26d93baf9f8e975732adb4b.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_5f2f2ea498cdc632cbffd6cf37c1a09670eb3272.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_cebc378d2f7bc78978c21db4e3c5e12ccd067349.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_0ace7f8b4350b8fbdd16345a76bc30545256e918.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_f0eeabe108c2bc2b3e370b9828fb280035b50db2.1920x1080.jpg?t=1700522118',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/264710/ss_b28404f3d108cc15aebbb2c3d7cb17e587225662.1920x1080.jpg?t=1700522118'
+        </urlImages>
+        <urlVebSite>https://unknownworlds.com/subnautica/</urlVebSite>
+        <razrabot>Unknown Worlds Entertainment</razrabot>
+        <izdat>Unknown Worlds Entertainment</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>12</id>
+        <NAME>Hearts of Iron IV</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Симуляторы', 'Стратегии'</tegs>
+        <description>Победа у вас под рукой! Ваша способность руководить своей нацией — ваше высшее оружие. В стратегической игре Hearts of Iron IV вы сможете взять на себя командование любой нацией во Второй мировой войне; самый захватывающий конфликт в мировой истории.</description>
+        <price>553</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.1920x1080.jpg?t=1712678025',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.1920x1080.jpg?t=1712678025',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.1920x1080.jpg?t=1712678025',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/ss_fc239db7ed07e8ec4e6440cd0c6ced88a955d90e.1920x1080.jpg?t=1712678025'
+        </urlImages>
+        <urlVebSite>https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about</urlVebSite>
+        <razrabot>Paradox Development Studio</razrabot>
+        <izdat>Paradox Interactive</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>13</id>
+        <NAME>The Talos Principle</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Инди'</tegs>
+        <description>The Talos Principle - головоломка от первого лица в лучших традициях научно-философской фантастики. Разработана Croteam, создателями Serious Sam, в соавторстве с Томом Жубертом (FTL, The Swapper) и Йонасом Киратзесом (The Sea Will Claim Everything).</description>
+        <price>110</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_8061dc63743404a7829eabdd47590421652c318d.1920x1080.jpg?t=1710246642',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_56f8a07f7c2ac684cfec3b17bc0668c24b905b4b.1920x1080.jpg?t=1710246642',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_3f16d21674b27dad893ccb27b581670b5bb8043a.1920x1080.jpg?t=1710246642',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_bf869965e8e972acb4dfe3f8d4bf7baa2c2cdf29.1920x1080.jpg?t=1710246642',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_ded5cd1a34df5b4d9015f71caf35db247b2579c4.1920x1080.jpg?t=1710246642',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/257510/ss_b42acabe63d45a11580a2949e34f305e1bd10fc7.1920x1080.jpg?t=1710246642'
+        </urlImages>
+        <urlVebSite>https://store.steampowered.com/app/257510/The_Talos_Principle/</urlVebSite>
+        <razrabot>Croteam</razrabot>
+        <izdat>Devolver Digital, Croteam</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>14</id>
+        <NAME>No Man's Sky</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры'</tegs>
+        <description>No Man's Sky является научно-фантастической игрой об исследованиях и выживании в бесконечной, процедурно генерируемой вселенной.</description>
+        <price>435</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_984215e9a0aa630399a4990ca5d66b8d66c55d50.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_fd7925765db09680758be26f349483db9ebe6f44.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_7d1384e974b5d6cb17af390ff54ed42e8fc6fadc.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_000ed108a71d782d0efd4b77309073fef38ae6c9.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_655829b2bce57d1c6b96733a63394c4958f13587.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_7b44b190be0315e29f3fbf199a79b0a890dd8854.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_0a51119c86a46ba8170487fba4bcfd5f592b918e.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_4a9148b29d4f8e956e1e3f2325ddca81dee73b4f.1920x1080.jpg?t=1711607335',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_def843b7f8af9d0dbc57c0434af1b48cab9324a1.1920x1080.jpg?t=1711607335'
+        </urlImages>
+        <urlVebSite>https://www.nomanssky.com/</urlVebSite>
+        <razrabot>Hello Games</razrabot>
+        <izdat>Hello Games</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>15</id>
+        <NAME>The Forest</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Инди', 'Симуляторы'</tegs>
+        <description>Будучи единственным выжившим после крушения пассажирского самолета, вы оказываетесь в таинственном лесу, сражаясь за выживание против общества мутантов-каннибалов. Стройте, исследуйте и выживайте в этом ужасающем симуляторе выживания от первого лица.</description>
+        <price>950</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/ss_53c615d49c4777144ed7359e4bf7c9eb6838cc8e.1920x1080.jpg?t=1699381053',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/ss_772eebf0ce7bdb51546055a36185e8ee46e8acac.1920x1080.jpg?t=1699381053',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/ss_d03a261fecab226a0ecac5746225c2a50d65c670.1920x1080.jpg?t=1699381053',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/ss_d77d402c78451a04b5c370e81ff7767c4008343c.1920x1080.jpg?t=1699381053',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/ss_a37e6873baf869be91010b20c30a7e61e4b82cc1.1920x1080.jpg?t=1699381053'
+        </urlImages>
+        <urlVebSite>https://the-forest.ru/</urlVebSite>
+        <razrabot>Endnight Games Ltd</razrabot>
+        <izdat>Endnight Games Ltd</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>16</id>
+        <NAME>Terraria</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Экшены', 'Приключенческие игры', 'Инди', 'Ролевые игры'</tegs>
+        <description>Копайте, сражайтесь, исследуйте, стройте! Нет ничего невозможного в этой насыщенной событиями приключенческой игре. Также доступен комплект для четверых!</description>
+        <price>385</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.1920x1080.jpg?t=1666290860',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.1920x1080.jpg?t=1666290860',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_9edd98caaf9357c2f40758f354475a56e356e8b0.1920x1080.jpg?t=1666290860',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_75ea9a7e39eb34b40efa1e6dfd2536098dc4734b.1920x1080.jpg?t=1666290860',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_782374517c1792debd74d24856203b876eba3a5d.1920x1080.jpg?t=1666290860',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/105600/ss_04dd9f0a5773b686a452ba480b951f83b3ed5061.1920x1080.jpg?t=1666290860'
+        </urlImages>
+        <urlVebSite>https://terraria.org/</urlVebSite>
+        <razrabot>Re-Logic</razrabot>
+        <izdat>Re-Logic</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>17</id>
+        <NAME>RimWorld</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Инди', 'Симуляторы', 'Стратегии'</tegs>
+        <description>
+        Научно-фантастический симулятор колонии под управлением ИИ-рассказчика. RimWorld управляет тремя людьми, выжившими после крушения космического лайнера, в строительстве колонии в приграничном мире на краю изученного пространства. 
+        Источники вдохновения этой игры -это дух космического вестерна Firefly, глубокая проработка Dwarf Fortress и эпические Dune и Warhammer 40 000. 
+        Следите за настроением, потребностями, мыслями, ранениями и болезнями колонистов. Участвуйте в глубоко проработанной боях небольших команд. Используйте одежду, оружие и экипировку из металла, дерева, камня, ткани и экзотических, футуристических материалов. Сражайтесь с пиратами-налетчиками, враждебными племенами, свирепыми животными и древними машинами убийств. Играя, каждый раз открывайте для себя новый мир. 
+        Стройте колонии в природных зонах от пустыни до джунглей и тундры, имеющих свои уникальные флоры и фауны. Управляйте колонистами и развивайте их с помощью уникальных биографий, черт и навыков. Учитесь легко играть с помощью интеллектуального и ненавязчивого ИИ-наставника
+        </description>
+        <price>879</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_371726c10a1b640dbf748fa62a500d911ac62427.1920x1080.jpg?t=1712954312',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.1920x1080.jpg?t=1712954312',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.1920x1080.jpg?t=1712954312',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_3038f36d2a1da63ddf29f16a48ee27254ab9b53d.1920x1080.jpg?t=1712954312',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.1920x1080.jpg?t=1712954312',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/294100/ss_a5dbe54944108fa4a83d6c01a1738ef4ca49704f.1920x1080.jpg?t=1712954312'
+        </urlImages>
+        <urlVebSite>https://rimworldgame.com/</urlVebSite>
+        <razrabot>Ludeon Studios</razrabot>
+        <izdat>Ludeon Studios</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>18</id>
+        <NAME>Sea of Stars</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Приключенческие игры', 'Инди', 'Ролевые игры'</tegs>
+        <description>Sea of ​​Stars — это пошаговая ролевая игра, вдохновленная классикой. В нем рассказывается история двух Детей Солнцестояния, которые объединят силы Солнца и Луны, чтобы творить Магию Затмения, единственную силу, способную отразить чудовищные творения злого алхимика</description>
+        <price>900</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_809758fdd7ee456090e023b3ee20f3680fda29f4.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_c250a7fd789b3cbab5ca8e99e3530cf933656ad1.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_889d4ddea7d0884d9d370dd280878570824e68fe.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_cb9259d083c9d42db9b1f1197e030f8f85d42198.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_e7ac3a6e5ebe5f4561fc46d116c33678cf4ba811.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_3fe41c00a7122c63aa05b4ea331c6f995e356788.1920x1080.jpg?t=1713369352',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/ss_3444baf45a5dc2b27d0c7d385dbcad7e4b121791.1920x1080.jpg?t=1713369352'
+        </urlImages>
+        <urlVebSite>https://seaofstarsgame.co/</urlVebSite>
+        <razrabot>Sabotage Studio</razrabot>
+        <izdat>Sabotage Studio</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>19</id>
+        <NAME>Supermarket Simulator</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs>'Казуальные игры', 'Инди', 'Симуляторы', 'Ранний доступ'</tegs>
+        <description>Управляйте собственным супермаркетом. Запасайтесь товаром на полках, устанавливайте цены по своему усмотрению, принимайте платежи, нанимайте персонал, расширяйте и оформляйте свой магазин. Вас ждут онлайн-заказы и доставка, воры, охрана, местный рынок.</description>
+        <price>490</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/ss_ee99c15d72be4149b24620c945cef9b129fdade7.1920x1080.jpg?t=1710942515',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/ss_da288dfd94c052144397fb8833392ebf56448d96.1920x1080.jpg?t=1710942515',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/ss_e429f14874ca193c42d4266408745af466ef13e3.1920x1080.jpg?t=1710942515',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/ss_fc219472c039df8e41dc13b97e6d678111659b70.1920x1080.jpg?t=1710942515',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/ss_5f1e8140d1df92bb47d857344b2b0864d985e5da.1920x1080.jpg?t=1710942515'
+        </urlImages>
+        <urlVebSite>https://store.steampowered.com/app/2670630/Supermarket_Simulator/?l=russian</urlVebSite>
+        <razrabot>Nokta Games</razrabot>
+        <izdat>Nokta Games</izdat>
+        <platform>PC</platform>
+    </book>
+    <book>
+        <id>20</id>
+        <NAME>American Truck Simulator</NAME>
+        <srcImage>static/images/games/</srcImage>
+        <tegs> 'Инди', 'Симуляторы'</tegs>
+        <description>Испытайте легендарные американские грузовики и доставьте разнообразные грузы по солнечной Калифорнии, песчаной Неваде и штату Гранд-Каньон в Аризоне. American Truck Simulator отправит вас в путешествие по захватывающим дух пейзажам и широко известным</description>
+        <price>1249</price>
+        <urlImages>
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_758470ddbd783e7ff0caac1a59b7fde4a74bbb67.1920x1080.jpg?t=1707218064',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_f0c114cadf2c3c02f54608c6751d5936a534061c.1920x1080.jpg?t=1707218064',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_7825c812221cb25b97cbe232272efb380e93df94.1920x1080.jpg?t=1707218064',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_253075cab0028149aa3e449a341ba9054174b018.1920x1080.jpg?t=1707218064',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_f32731750f6549c24b495b02b7b34ac63721fddb.1920x1080.jpg?t=1707218064',
+            'https://cdn.cloudflare.steamstatic.com/steam/apps/270880/ss_bb7b840945c152241562651c704ead6ae9c7b361.1920x1080.jpg?t=1707218064'
+        </urlImages>
+        <urlVebSite>https://americantrucksimulator.com/</urlVebSite>
+        <razrabot>SCS Software</razrabot>
+        <izdat>SCS Software</izdat>
+        <platform>PC</platform>
+    </book>
+</MAGAZIN>

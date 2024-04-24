@@ -1,0 +1,208 @@
+header{
+    display: flex;
+    min-height: 60px;
+    color: #fff;
+    background-color: #a82e67;
+    margin-bottom: 20px;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto 0;
+    margin: 0 auto;
+    
+}
+
+.header-logo {
+    display: block;
+    width: 45px;
+    height: 45px;
+    background: url(../images/logo/logo3.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 35%;
+    margin-left: 5px;
+    transition: opacity .1s ease-out;
+}
+
+.header-logo:hover {
+    opacity: 0.7;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu-header {
+    flex-grow: 1;
+}
+
+.menu-header ul {
+    display: flex;
+    list-style: none;
+}
+
+.menu-header a{
+    color: inherit;
+    padding: 10px 17px;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: bolder;
+    letter-spacing: 1.1px;
+}
+
+
+.search {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+  
+.searchTerm {
+    min-height: 36px;
+    width: 100%;
+    border: 3px solid #03a2b8;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+}
+  
+.searchTerm:focus{
+    color: #00B4CC;
+}
+  
+.searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid #00B4CC;
+    background: #00B4CC;
+    background-image: url(../images/search.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    /* border-radius: 35%; */
+    
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.optinFront {
+    display: flex;
+    width: auto;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.optinFront span {
+    display: flex;
+    width: 60px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+
+    color:#03a2b8;
+    text-decoration:none;
+    text-align:center;
+    background-image: linear-gradient(to left,transparent,transparent 50%,#03a2b8 50%,#03a2b8);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+    font: 400 16px;
+ 
+    border: 1px solid #03a2b8;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.optinFront span:first-child {
+    width: 70px;
+    margin-right: 10px;
+}
+
+.optinFront span:hover {
+    background-position: 0 0;
+    color:#fff;
+}
+
+.optinMenu {
+    position: relative;
+    margin-right: 5px;
+}
+
+
+
+.dropDown {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 200px;
+    top: 60px;
+    right: 0;
+    background-color: #a82e67;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    z-index: 1000;
+    visibility: hidden;
+}
+
+.openBlock {
+    visibility: visible;
+}
+
+.dropDown a{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 35px;
+    margin-bottom: 5px;
+    
+    font-size: 16px;
+    font-family: 'Roboto','Montserrat','Tahoma','Meiryo',sans-serif;
+    letter-spacing: 0.3px;
+    
+    color: #cbddd5;
+}
+
+
+.dropDown a::before {
+    display: block;
+    content: "";
+    min-width: 25px;
+    height: 25px;
+    
+    margin-right: 10px;
+    margin-left: 5px;
+
+}
+
+.dropDown a:nth-child(1)::before {    
+    background-image: url(../images/formRegCome/iconsCome02.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.dropDown a:nth-child(2)::before {    
+    background-image: url(../images/formRegCome/iconsRegister01.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.dropDown a:hover {
+    background-color: #b45b85;
+
+}

@@ -1,0 +1,71 @@
+
+.buts {
+    display: flex;
+    width: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.buts button {
+    width: 85px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+.buts button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    line-height: 35px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    transition: all 0.35s;
+
+    font-family: "Fredoka One", cursive;
+}
+
+.buts button {
+    position: relative;
+    background-color: #a09595;
+    border-color: #5e5e5e;
+    color: #fff;
+    overflow: hidden;
+    &::before,
+    &::after {
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateX(-100px) skewX(-15deg);
+      content: "";
+    }
+    &::before {
+      width: 60px;
+      background: rgba(255, 255, 255, 0.5);
+      filter: blur(30px);
+      opacity: 0.5;
+    }
+    &::after {
+      width: 30px;
+      left: 30px;
+      background: rgba(255, 255, 255, 0.2);
+      filter: blur(5px);
+    }
+    &:hover {
+      background-color: #dfa7be;
+      border-color: #dd6395;
+      &::before {
+        opacity: 1;
+      }
+      &::before,
+      &::after {
+        transform: translateX(300px) skewX(-15deg);
+        transition: all 0.9s ease;
+      }
+    }
+}
